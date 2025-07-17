@@ -3,8 +3,8 @@ It's a simple number guessing Discord "bot" written in Python, which interacts w
 There's also an economy system with a shop and working payment service!
 
 ## How do I install NumberCoins?
-This isn't a traditional Discord bot, instead you will need to create a webhook + the respective channel URL and give it to NumberCoins.</br>
-CR_USER_DATA_DIR should be replaced with a Chrome profile directory that is logged into Discord.</br>
+This isn't a traditional Discord bot, instead you will need to create a webhook and replace the blank values (webhook and respective channel URL) in the "main" profile with them.</br>
+CR_USER_DATA_DIR should be replaced with a Chrome profile directory that is logged into Discord and has access to the channel(s) provided beforehand.</br>
 You'll also need Selenium and Chrome to use WebDriver.
 
 ## Features
