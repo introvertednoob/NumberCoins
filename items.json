@@ -1,0 +1,32 @@
+{
+    "multi1": {
+        "name": "NumberCoin Duplicator LV1",
+        "desc": "A small increase in NumberCoins.",
+        "stats": "1.5x Coins for two drops",
+        "modifiers": {
+            "multi": 1.5, 
+            "rounds": 3
+        },
+        "price": 50
+    },
+    "multi2": {
+        "name": "NumberCoin Duplicator LV2",
+        "desc": "A moderate increase in NumberCoins.",
+        "stats": "2x Coins for five drops",
+        "modifiers": {
+            "multi": 2, 
+            "rounds": 5
+        },
+        "price": 100
+    },
+    "multi3": {
+        "name": "NumberCoin Duplicator LV3",
+        "desc": "A HUGE increase in NumberCoins!!",
+        "stats": "4x Coins for ten drops",
+        "modifiers": {
+            "multi": 4,
+            "rounds": 10
+        },
+        "price": 300
+    }
+}
