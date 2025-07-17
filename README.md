@@ -13,11 +13,11 @@ You'll also need Selenium and Chrome to use WebDriver.
 - (Incomplete) Competition system
 
 ## Command Documentation
-To register yourself into the database: `/numbercoins register YOUR_DISPLAY_NAME`
-To start a game: `/numbercoins start NUM_1-NUM_2`
+To register yourself into the database: `/numbercoins register YOUR_DISPLAY_NAME`</br>
+To start a game: `/numbercoins start NUM_1-NUM_2`</br>
 
 ### Admin Commands
-Admin commands are locked behind a rotating 4-digit code system.
-To sync data from data.json: `/numbercoins sync-ADMIN_CODE`
-To transfer data: `/numbercoins transfer-ADMIN_CODE PLAYER_1 -> PLAYER_2`
+Admin commands are locked behind a rotating 4-digit code system.</br>
+To sync data from data.json: `/numbercoins sync-ADMIN_CODE`</br>
+To transfer data: `/numbercoins transfer-ADMIN_CODE PLAYER_1 -> PLAYER_2`</br>
 To restart NumberCoins: `/numbercoins restart-ADMIN_CODE`
